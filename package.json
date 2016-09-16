@@ -1,0 +1,15 @@
+{
+  "name": "chai-color-helpers",
+  "version": "1.0.0",
+  "description": "Assert whether a string is a particular colour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinycolor": "0.0.1"
+  }
+}
